@@ -14,8 +14,6 @@ A flexible and modular Python library for reinforcement learning experimentation
 
 ```bash
 git clone https://github.com/keivalya/rl_playbook.git
-cd rl_playbook
-pip install -e .
 ```
 
 ## Usage
